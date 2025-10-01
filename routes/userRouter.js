@@ -7,3 +7,5 @@ userRouter.get('/',(req,res,next)=>{
 })
 
 module.exports =userRouter;
+
+
